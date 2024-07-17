@@ -1,0 +1,550 @@
+{
+  "header": {
+    "title": "Rim Doe"
+  },
+  "navigation": {
+    "projects": "Projekte",
+    "work": "Berufserfahrung",
+    "education": "Ausbildung",
+    "skills": "Skills",
+    "contact": "Kontakt"
+  },
+  "projects": {
+    "heading": "Projekte",
+    "workExperience": [
+      {
+        "period": "2024",
+        "company": "Lorem SaaS",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin purus diam, viverra id diam a, varius aliquam lectus.",
+        "usedTechs": [
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/react.svg",
+            "name": "React"
+          },
+          {
+            "logo": "logos/nextjs.svg",
+            "name": "NextJs"
+          },
+          {
+            "logo": "logos/clerk.svg",
+            "name": "Clerk"
+          },
+          {
+            "logo": "logos/cloudinary.svg",
+            "name": "Cloudinary"
+          },
+          {
+            "logo": "logos/stripe.svg",
+            "name": "Stripe"
+          }
+        ]
+      },
+      {
+        "period": "2024",
+        "company": "Dolor",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin purus diam, viverra id diam a, varius aliquam lectus.",
+        "usedTechs": [
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/react.svg",
+            "name": "React"
+          },
+          {
+            "logo": "logos/tailwind.svg",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "period": "2024",
+        "company": "SitAmet",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin purus diam, viverra id diam a, varius aliquam lectus.",
+        "usedTechs": [
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/react.svg",
+            "name": "React"
+          },
+          {
+            "logo": "logos/tailwind.svg",
+            "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "period": "2024",
+        "company": "Portfolio",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin purus diam, viverra id diam a, varius aliquam lectus.",
+        "usedTechs": [
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/react.svg",
+            "name": "React"
+          },
+          {
+            "logo": "logos/tailwind.svg",
+            "name": "Tailwind CSS"
+          }
+        ]
+      }
+    ]
+  },
+  "work": {
+    "heading": "Berufserfahrung",
+    "workExperience": [
+      {
+        "period": "11/2020 - Heute",
+        "company": "Ipsum Limited",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "title": "Gründerin",
+        "responsibilities": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "Proin purus diam, viverra id diam a, varius aliquam lectus. Pellentesque finibus cursus quam nec eleifend.",
+          "Praesent sem erat, dignissim ac rhoncus ut, egestas a turpis. Nullam viverra magna mi, ut maximus nulla ultricies vel"
+        ],
+        "usedTechs": [
+          {
+            "logo": "logos/wordpress.svg",
+            "name": "Wordpress"
+          },
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/googleadwords.svg",
+            "name": "Google AdWords"
+          },
+          {
+            "logo": "logos/googleanalytics.svg",
+            "name": "Google Analytics"
+          },
+          {
+            "logo": "logos/instagram.svg",
+            "name": "Instagram - Meta Business Suite"
+          },
+          {
+            "logo": "logos/facebook.svg",
+            "name": "Facebook - Meta Business Suite"
+          },
+          {
+            "logo": "logos/affinityphoto.svg",
+            "name": "Affinity Photo"
+          }
+        ],
+        "instagram": "Instagram: @ipsum_store"
+      },
+      {
+        "period": "01/2020 – 06/2020",
+        "company": "Dolor",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "title": "Web Developer",
+        "responsibilities": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "Proin purus diam, viverra id diam a, varius aliquam lectus. Pellentesque finibus cursus quam nec eleifend.",
+          "Praesent sem erat, dignissim ac rhoncus ut, egestas a turpis. Nullam viverra magna mi, ut maximus nulla ultricies vel"
+        ],
+        "usedTechs": [
+          {
+            "logo": "logos/wordpress.svg",
+            "name": "Wordpress"
+          },
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/googleadwords.svg",
+            "name": "Google AdWords"
+          },
+          {
+            "logo": "logos/googleanalytics.svg",
+            "name": "Google Analytics"
+          },
+          {
+            "logo": "logos/instagram.svg",
+            "name": "Instagram - Meta Business Suite"
+          },
+          {
+            "logo": "logos/facebook.svg",
+            "name": "Facebook - Meta Business Suite"
+          },
+          {
+            "logo": "logos/affinityphoto.svg",
+            "name": "Affinity Photo"
+          }
+        ]
+      },
+      {
+        "period": "04/2015 - 08/2017",
+        "company": "Stripe",
+        "url": "#",
+        "companyLogo": "logos/rim.svg",
+        "title": " Manager",
+        "responsibilities": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "Proin purus diam, viverra id diam a, varius aliquam lectus. Pellentesque finibus cursus quam nec eleifend.",
+          "Praesent sem erat, dignissim ac rhoncus ut, egestas a turpis. Nullam viverra magna mi, ut maximus nulla ultricies vel"
+        ],
+        "usedTechs": [
+          {
+            "logo": "logos/wordpress.svg",
+            "name": "Wordpress"
+          },
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/googleadwords.svg",
+            "name": "Google AdWords"
+          },
+          {
+            "logo": "logos/googleanalytics.svg",
+            "name": "Google Analytics"
+          },
+          {
+            "logo": "logos/instagram.svg",
+            "name": "Instagram - Meta Business Suite"
+          },
+          {
+            "logo": "logos/facebook.svg",
+            "name": "Facebook - Meta Business Suite"
+          },
+          {
+            "logo": "logos/affinityphoto.svg",
+            "name": "Affinity Photo"
+          }
+        ]
+      },
+      {
+        "period": "06/2014 - 12/2014",
+        "company": "Adipiscing",
+        "companyLogo": "logos/rim.svg",
+        "url": "#",
+        "title": "Supplier",
+        "responsibilities": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "Proin purus diam, viverra id diam a, varius aliquam lectus. Pellentesque finibus cursus quam nec eleifend.",
+          "Praesent sem erat, dignissim ac rhoncus ut, egestas a turpis. Nullam viverra magna mi, ut maximus nulla ultricies vel"
+        ],
+        "usedTechs": [
+          {
+            "logo": "logos/wordpress.svg",
+            "name": "Wordpress"
+          },
+          {
+            "logo": "logos/css3.svg",
+            "name": "CSS3"
+          },
+          {
+            "logo": "logos/html5.svg",
+            "name": "HTML5"
+          },
+          {
+            "logo": "logos/googleadwords.svg",
+            "name": "Google AdWords"
+          },
+          {
+            "logo": "logos/googleanalytics.svg",
+            "name": "Google Analytics"
+          },
+          {
+            "logo": "logos/instagram.svg",
+            "name": "Instagram - Meta Business Suite"
+          },
+          {
+            "logo": "logos/facebook.svg",
+            "name": "Facebook - Meta Business Suite"
+          },
+          {
+            "logo": "logos/affinityphoto.svg",
+            "name": "Affinity Photo"
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "heading": "Ausbildung",
+    "eduList": [
+      {
+        "institution": "Lorem Ipsum University",
+        "logo": "logos/rim.svg",
+        "url": "#",
+        "program": "Mathematical Economics",
+        "degree": "Bachelor of Science",
+        "years": "04.2021 - Present"
+      },
+      {
+        "institution": "Dolor Sit Amet - City",
+        "logo": "logos/rim.svg",
+        "url": "#",
+        "program": "Business Management - Supply Chain and Logistics",
+        "degree": "Master",
+        "years": "2012 - 2014"
+      },
+      {
+        "institution": "Dolor Sit Amet - City",
+        "logo": "logos/rim.svg",
+        "url": "#",
+        "program": "Management",
+        "degree": "Bachelor",
+        "years": "2009 - 2012"
+      }
+    ]
+  },
+  "volunteer": {
+    "heading": "Ehrenamtliche Aktivitäten",
+    "list": [
+      {
+        "name": "Organization",
+        "url": "#",
+        "logo": "logos/rim.svg",
+        "position": "Member",
+        "period": "2018 - 2019"
+      },
+      {
+        "name": "TedX-Event",
+        "url": "#",
+        "logo": "logos/rim.svg",
+        "position": "Member of the organization team",
+        "period": "2013 - 2014"
+      }
+    ]
+  },
+  "certification": {
+    "heading": "Zertifikate",
+    "list": [
+      {
+        "name": "Digital Marketing",
+        "date": "2023",
+        "logo": "logos/rim.svg",
+        "id": "",
+        "url": "#"
+      },
+      {
+        "name": "Analytics Qualification",
+        "date": "2019",
+        "logo": "logos/rim.svg",
+        "id": "999999",
+        "url": "#"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Entwicklung",
+      "list": [
+        {
+          "name": "HTML",
+          "logo": "logos/html5.svg",
+          "rating": "70"
+        },
+        {
+          "name": "CSS",
+          "logo": "logos/css3.svg",
+          "rating": "55"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "logos/javascript.svg",
+          "rating": "45"
+        },
+        {
+          "name": "TypeScript",
+          "logo": "logos/typescript.svg",
+          "rating": "30"
+        },
+        {
+          "name": "Tailwind CSS",
+          "logo": "logos/tailwind.svg",
+          "rating": "52"
+        },
+        {
+          "name": "React",
+          "logo": "logos/react.svg",
+          "rating": "44"
+        },
+        {
+          "name": "NextJs",
+          "logo": "logos/nextjs.svg",
+          "rating": "30"
+        },
+        {
+          "name": "Vite",
+          "logo": "logos/vite.svg",
+          "rating": "25"
+        },
+        {
+          "name": "Node.js",
+          "logo": "logos/nodejs.svg",
+          "rating": "35"
+        },
+        {
+          "name": "MongoDB",
+          "logo": "logos/mongodb.svg",
+          "rating": "40"
+        },
+        {
+          "name": "Github",
+          "logo": "logos/github.svg",
+          "rating": "30"
+        },
+        {
+          "name": "Visual Studio Code",
+          "logo": "logos/vscode.svg",
+          "rating": "50"
+        }
+      ]
+    },
+    {
+      "category": "E-Commerce",
+      "list": [
+        {
+          "name": "Shopware",
+          "logo": "logos/shopware.svg",
+          "rating": "65"
+        },
+        {
+          "name": "Shopify",
+          "logo": "logos/shopify.svg",
+          "rating": "60"
+        },
+        {
+          "name": "Wordpress",
+          "logo": "logos/wordpress.svg",
+          "rating": "50"
+        },
+        {
+          "name": "Google AdWords",
+          "logo": "logos/googleadwords.svg",
+          "rating": "45"
+        },
+        {
+          "name": "Google Analytics",
+          "logo": "logos/googleanalytics.svg",
+          "rating": "60"
+        }
+      ]
+    },
+    {
+      "category": "Tools",
+      "list": [
+        {
+          "name": "Microsoft Excel",
+          "logo": "logos/mexcel.svg",
+          "rating": "80"
+        },
+        {
+          "name": "Microsoft Word",
+          "logo": "logos/mword.svg",
+          "rating": "80"
+        },
+        {
+          "name": "Microsoft Powerpoint",
+          "logo": "logos/mpowerpoint.svg",
+          "rating": "80"
+        },
+        {
+          "name": "Trello",
+          "logo": "logos/trello.svg",
+          "rating": "75"
+        },
+        {
+          "name": "Notion",
+          "logo": "logos/notion.svg",
+          "rating": "30"
+        },
+        {
+          "name": "Affinity Photo",
+          "logo": "logos/affinityphoto.svg",
+          "rating": "30"
+        },
+        {
+          "name": "Canva",
+          "logo": "logos/canva.svg",
+          "rating": "45"
+        }
+      ]
+    },
+    {
+      "category": "Sprachen",
+      "list": [
+        {
+          "name": "French",
+          "logo": "logos/france.svg",
+          "rating": "100"
+        },
+        {
+          "name": "German",
+          "logo": "logos/germany.svg",
+          "rating": "85"
+        },
+        {
+          "name": "English",
+          "logo": "logos/england.svg",
+          "rating": "80"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "heading": "Kontakt"
+  },
+  "impressum": {
+    "title": "Legal Notice",
+    "myName": "Rim Doe"
+  }
+}
